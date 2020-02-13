@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "https://nifty-kirch-a897d8.netlify.com/"
+baseURL = "https://angry-jepsen-d8f2ad.netlify.com/"
 disableLanguages = ["fr", ""]
 summaryLength = "10"
 theme = "biztrox-hugo"
